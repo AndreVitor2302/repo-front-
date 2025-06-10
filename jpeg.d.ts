@@ -1,1 +1,0 @@
-declare module"*jpeg" // Móduculo que declara a imagem colocada na pasta 'assets'
